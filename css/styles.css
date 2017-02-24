@@ -1,1 +1,29 @@
 
+#header-nav{
+  background-color: gray;
+  border-radius: 0;
+  border:0;
+
+}
+
+ul li {
+    font-weight: bold;
+    background: #cce5ff;
+    margin: 10px;
+    text-align: center;
+}
+
+h2{
+  text-align:center;
+  margin-bottom: 30px;
+}
+
+h3{
+  text-align: center;
+}
+
+#text{
+  background-color: gray;
+
+}
+
